@@ -1,0 +1,6 @@
+# 内部构建/校对用文件，不应随仓库公开发布
+_build_data.json
+GAMEMASTER_ANSWERS.md
+gen_ciphers.py
+gen_stego.py
+.DS_Store
