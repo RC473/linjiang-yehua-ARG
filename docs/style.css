@@ -284,3 +284,5 @@ main{padding:56px 48px 120px; max-width:760px;}
   margin-top:6px;
 }
 .ext-link-btn:hover{border-color:var(--amber); text-decoration:none;}
+
+/* [G] 修复首页在移动端的顶部间距 */
