@@ -30,7 +30,7 @@ window.CHAPTERS = [
   cipherLabel:"老陈的纸条（凯撒密码 · 位移未知）",
   cipherText:"ijslyf",
   hintTitle:"关于凯撒密码",
-  hintBody:"凯撒密码是把字母表整体移动固定位数。位移量老陈没说，但他说过「这数刚好是五根手指」。试着把每个字母往前移 5 位（例如 f→a）。答案请输入对应的汉语拼音全拼，不留空格，例如 dengta。",
+  hintBody:"凯撒密码是把字母表整体移动固定位数。位移量老陈没说，但他说过「这数刚好是五根手指」。试着把每个字母往前移 5 位（例如 f→a）。答案请输入解出的汉语拼音全拼，不留空格（比如「地铁」应输入 ditie 这样的格式）。",
   answerHash:"ea85c977e1ff7316bd00d466c2179abc30a70cfc830782d3519fc15398d19db3",
   revealTitle:"塔基石缝",
   revealBody:[
@@ -187,7 +187,7 @@ window.CHAPTERS = [
 },
 
 {
-  id:9, kind:"puzzle", external:true, logPage:"log/09-huijin.html",
+  id:9, kind:"puzzle", external:true, logPage:"log/09.html",
   eyebrow:"档案 · 0009 · 灰烬",
   title:"从火场里抢出来的一张照片",
   meta:["发布：临江怪谈 · 第九卷","标签：物证 / 影像","⚠ 本篇需要离开这个页面查看原始素材"],
@@ -229,7 +229,7 @@ window.CHAPTERS = [
 },
 
 {
-  id:11, kind:"puzzle", external:true, logPage:"log/11-shouye.html",
+  id:11, kind:"puzzle", external:true, logPage:"log/11.html",
   eyebrow:"档案 · 0011 · 守夜",
   title:"一篇写到一半的文章",
   meta:["发布：临江怪谈 · 第十一卷","标签：编者按","⚠ 建议查看本篇的网页源代码"],
@@ -250,7 +250,7 @@ window.CHAPTERS = [
 },
 
 {
-  id:12, kind:"puzzle", external:true, logPage:"log/12-wuguang.html",
+  id:12, kind:"puzzle", external:true, logPage:"log/12.html",
   eyebrow:"档案 · 0012 · 无光",
   title:"一张画得很随意的示意图",
   meta:["发布：临江怪谈 · 第十二卷","标签：地图 / 未证实","⚠ 页面上可能有肉眼不容易察觉的内容"],
@@ -323,7 +323,7 @@ window.CHAPTERS = [
     "十四个字母，一个都不能错，顺序也不能乱——从『灯塔』的 d 开始，到『十三』的 s 结束。"
   ],
   cipherLabel:"最终密钥输入格式",
-  cipherText:"（14位小写字母，无空格，例如：dxxxxxxxxxxxxs）",
+  cipherText:"（14位小写字母，无空格，仅作格式示意：abcdefghijklmn）",
   hintTitle:"如果卡住了",
   hintBody:"按 灯塔→名单→地窖→钥匙→镜子→电梯→底片→潮汐→灰烬→暗号→守夜→无光→归途→十三 的顺序，把每个词拼音的第一个字母依次抄下来即可。",
   answerHash:"b5079dcc64393fbe027ef08712d3aff3d14c5ae15014567a923e738e9ed1e2bf",

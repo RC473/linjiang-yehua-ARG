@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # 这几篇没有整理完，暂时不希望被搜索引擎收录
-Disallow: /log/10-anhao.html
+Disallow: /log/10.html
 Disallow: /drafts/
 Disallow: /log/unused-draft-2.html
 
